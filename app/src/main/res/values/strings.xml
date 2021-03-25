@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Note_Pad</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this Note?</string>
+    <string name="delete">Delete</string>
+    <string name="editor_delete_data_successful">Data deleted</string>
+    <string name="editor_delete_data_failed">Error with deleting data</string>
+    <string name="cancel">Cancel</string>
+</resources>
